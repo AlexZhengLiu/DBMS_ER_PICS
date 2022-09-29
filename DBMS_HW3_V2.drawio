@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T06:04:21.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HZxMxYBfV-ia4NlfsoPM" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T06:11:37.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5uKxQ9Mwz2xFZSyjTwR9" version="20.3.7" type="github">
   <diagram id="NO0MrUpebZ2SBpMLK5WK" name="Page-1">
-    <mxGraphModel dx="727" dy="1281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2198" dy="2174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -935,10 +935,31 @@
           <mxGeometry x="750" y="2151" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zzDn1OUkkv3zQE1kXq0X-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(1,1)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="746" y="2215" width="50" height="30" as="geometry" />
+          <mxGeometry x="750" y="2201" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zzDn1OUkkv3zQE1kXq0X-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(1,1)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2231" width="50" height="30" as="geometry" />
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(1,N)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2224" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(1,N)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="2240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(1,1)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="876" y="2240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-12" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;(1,1)&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="711.99" y="2231" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-13" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DBMS HW#1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Name: Zheng Liu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;CMU ID: zhengl3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;DATABASE MANAGEMENT 95703 D&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="851" y="-760" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-14" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DBMS HW#1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Name: Zheng Liu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;CMU ID: zhengl3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;DATABASE MANAGEMENT 95703 D&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840.99" y="40" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-21" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DBMS HW#1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Name: Zheng Liu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;CMU ID: zhengl3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;DATABASE MANAGEMENT 95703 D&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="831" y="880" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zzDn1OUkkv3zQE1kXq0X-22" value="&lt;div class=&quot;mind-clipboard&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DBMS HW#1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Name: Zheng Liu&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;CMU ID: zhengl3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;DATABASE MANAGEMENT 95703 D&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="861" y="1680" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
